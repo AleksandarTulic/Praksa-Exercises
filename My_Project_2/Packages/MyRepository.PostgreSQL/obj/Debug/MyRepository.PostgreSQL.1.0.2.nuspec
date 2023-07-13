@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyRepository.PostgreSQL</id>
+    <version>1.0.2</version>
+    <authors>MyRepository.PostgreSQL</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.8" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="7.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\bin\Debug\net7.0\MyRepository.PostgreSQL.runtimeconfig.json" target="lib\net7.0\MyRepository.PostgreSQL.runtimeconfig.json" />
+    <file src="C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\bin\Debug\net7.0\MyRepository.PostgreSQL.dll" target="lib\net7.0\MyRepository.PostgreSQL.dll" />
+  </files>
+</package>

@@ -1,0 +1,14 @@
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\bin\Debug\net7.0\MyRepository.PostgreSQL.deps.json
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\bin\Debug\net7.0\MyRepository.PostgreSQL.runtimeconfig.json
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\bin\Debug\net7.0\MyRepository.PostgreSQL.dll
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\bin\Debug\net7.0\MyRepository.PostgreSQL.pdb
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\MyRepository.PostgreSQL.csproj.AssemblyReference.cache
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\MyRepository.PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\MyRepository.PostgreSQL.AssemblyInfoInputs.cache
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\MyRepository.PostgreSQL.AssemblyInfo.cs
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\MyRepository.PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\MyRepository.PostgreSQL.dll
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\refint\MyRepository.PostgreSQL.dll
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\MyRepository.PostgreSQL.pdb
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\MyRepository.PostgreSQL.genruntimeconfig.cache
+C:\Users\Windows10\Documents\.NET\My_Project_2\Packages\MyRepository.PostgreSQL\obj\Debug\net7.0\ref\MyRepository.PostgreSQL.dll
