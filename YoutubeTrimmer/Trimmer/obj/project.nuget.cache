@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYqpnF4YwQDvoSKBLjGclStGemX1ABTmHziqkla+ylWH6ObEwh2zlg9A2yfCAvd55nxFY8yFVXM7xlqziJiZXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Codaxy\\Desktop\\GIT\\YoutubeTrimmer\\Trimmer\\Trimmer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Codaxy\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
